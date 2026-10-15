@@ -1,0 +1,8 @@
+{
+  "name": "rgb_calibration",
+  "build": {
+    "libArchive": false,
+    "srcFilter": "+<rgb_calibration.cpp> -<tests/>"
+  },
+  "dependencies": {}
+}
